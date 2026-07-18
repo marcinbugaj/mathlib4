@@ -2120,6 +2120,7 @@ public import Mathlib.Analysis.Meromorphic.NormalForm
 public import Mathlib.Analysis.Meromorphic.Order
 public import Mathlib.Analysis.Meromorphic.RCLike
 public import Mathlib.Analysis.Meromorphic.TrailingCoefficient
+public import Mathlib.Analysis.Muirhead
 public import Mathlib.Analysis.Normed.Affine.AddTorsor
 public import Mathlib.Analysis.Normed.Affine.AddTorsorBases
 public import Mathlib.Analysis.Normed.Affine.AsymptoticCone
